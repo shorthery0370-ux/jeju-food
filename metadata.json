@@ -1,0 +1,6 @@
+{
+  "name": "제주시내 정식 맛집 가이드 - JEJU DINE 10",
+  "description": "제주시내 정식 및 백반 맛집 10곳 상세 정보 (대표메뉴, 주소, 영업시간, 브레이크타임, 캐치테이블, 평점)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
